@@ -11,7 +11,9 @@ Getting your workstation ready for JavaScript development.
 
 ### Installation Instructions
 **[Windows:](https://code.visualstudio.com/docs/setup/windows)**
+
 **[MacOS:](https://code.visualstudio.com/docs/setup/macos)**
+
 **[Linux:](https://code.visualstudio.com/docs/setup/linux)**
 
 Several plugins should be also installed during the course such as ESLint and Live Server
