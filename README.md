@@ -14,8 +14,8 @@ Getting your workstation ready for JavaScript development.
 - **[MacOS](https://code.visualstudio.com/docs/setup/mac)**
 - **[Linux](https://code.visualstudio.com/docs/setup/linux)**
 
-Several plugins should be also installed during the course such as ESLint and Live Server
-(instructions on how to install and manage your plugins can be found here: https://code.visualstudio.com/docs/editor/extension-gallery
+Several plugins should be also installed during the course such as ESLint and Live Server.
+Instructions on how to install and manage your plugins can be found here: **[Εxtension Marketplace](https://code.visualstudio.com/docs/editor/extension-gallery)**
 
 ## Other tools
 1. Git, download and install **[Git Version Control](https://git-scm.com/downloads)**
