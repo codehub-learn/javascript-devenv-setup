@@ -10,11 +10,9 @@ Getting your workstation ready for JavaScript development.
 **[Download Visual Studio Code](https://code.visualstudio.com/)** and install.
 
 ### Installation Instructions
-**[Windows](https://code.visualstudio.com/docs/setup/windows)**
-
-**[MacOS](https://code.visualstudio.com/docs/setup/macos)**
-
-**[Linux](https://code.visualstudio.com/docs/setup/linux)**
+1. **[Windows](https://code.visualstudio.com/docs/setup/windows)**
+2. **[MacOS](https://code.visualstudio.com/docs/setup/mac)**
+3. **[Linux](https://code.visualstudio.com/docs/setup/linux)**
 
 Several plugins should be also installed during the course such as ESLint and Live Server
 (instructions on how to install and manage your plugins can be found here: https://code.visualstudio.com/docs/editor/extension-gallery
